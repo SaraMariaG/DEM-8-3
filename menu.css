@@ -21,7 +21,7 @@ ul, ol {
 }
 
 .nav li a {
-    background-color: #0b8ccd;
+    background-color: #377ea2;
     color: #ef89ed;
     text-decoration: none;
     padding: 10px 12px;
@@ -29,7 +29,7 @@ ul, ol {
 }
 
 .nav li a:hover {
-    background-color: #ef04e3;
+    background-color: #72cde4;
 }
 
 .nav li ul {
