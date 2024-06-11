@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 37px;
     padding-top: 140px;
     text-align: justify;
     background-color: ;
@@ -12,7 +12,7 @@
      
 }
 body{
-    background-image: url("cielito.jpg");
+    background-image: url("cielo.jpg");
     background-repeat: no-repeat;
 
 }
