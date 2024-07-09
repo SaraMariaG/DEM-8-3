@@ -12,7 +12,13 @@
      
 }
 body{
+    
     background-image: url("cielo.jpg");
     background-repeat: no-repeat;
 
+}
+.titulo{
+    font-size: 38px;
+    color: rgb(27, 215, 153); 
+    text-align: center;
 }
