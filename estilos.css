@@ -22,3 +22,10 @@ body{
     color: rgb(21, 68, 130); 
  text-align: center;
 }
+.imagent{
+
+    height: 181px;
+    width: 310px;
+    background-repeat: no-repeat;
+    background-image: url("circuito.jpg");
+}
