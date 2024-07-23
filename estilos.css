@@ -5,10 +5,10 @@
     font-size: 37px;
     padding-top: 140px;
     text-align: justify;
-    background-color: ;
-}
-.principal{
-   display: flex;
+    background-color: rgb(124, 189, 255);
+    font-family: serif;
+    float: left;
+
      
 }
 body{
@@ -28,4 +28,6 @@ body{
     width: 310px;
     background-repeat: no-repeat;
     background-image: url("circuito.jpg");
+    float: left;
 }
+
