@@ -4,8 +4,8 @@
    
     font-size: 30px;
     padding-top: 140px;
+    background-color: rgb(105, 127, 224);
     text-align: justify;
-    background-color: rgb(69, 125, 182);
     font-family: serif;
     float: left;
 
@@ -24,10 +24,24 @@ body{
 }
 .imagent{
 
-    height: 181px;
-    width: 310px;
+    height: 183px;
+    width: 325px;
     background-repeat: no-repeat;
     background-image: url("circuito.jpg");
     float: left;
 }
+
+.mapacon{
+
+height: 400px;
+width: 1315px;
+background-repeat: no-repeat;
+background-image: url(mapa.jpeg);
+float: left;
+
+
+}
+
+
+
 
