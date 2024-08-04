@@ -4,7 +4,6 @@
    
     font-size: 30px;
     padding-top: 140px;
-    background-color: rgb(105, 127, 224);
     text-align: justify;
     font-family: serif;
     float: left;
@@ -12,11 +11,22 @@
      
 }
 body{
-    
+    font-family: sans-serif;
+    min-height: 100vh;
+    box-sizing: border-box;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
     background-image: url("cielo.jpg");
     background-repeat: no-repeat;
 
 }
+.img{
+
+    height: 700px;
+width: 1300px;
+}
+
 .titulo{
     font-size: 50px;
     color: rgb(0, 0, 0); 
@@ -31,17 +41,38 @@ body{
     float: left;
 }
 
-.mapacon{
 
-height: 400px;
-width: 1315px;
-background-repeat: no-repeat;
-background-image: url(mapa.jpeg);
-float: left;
 
 
 }
 
+.alimenticio{
+
+height: 300px;
+width: 319px;
+background-repeat: no-repeat;
+background-image: url("tras\ alimen.PNG");
+float: left;
+
+}
+
+.anorexia{
+
+height: 350px;
+width: 400px;
+background-image: url("anorexia.jpg");
+background-repeat: no-repeat;
+float: left;
+
+}
+
+.bulimia{
+
+height: 250px;
+width: 300px;
+background-repeat: no-repeat;
+background-image: url("bulimia.PNG");
+float: left;
 
 
-
+}
