@@ -27,6 +27,46 @@ body{
 width: 1300px;
 }
 
+.img2{
+
+height: 300px;
+width: 300px;
+
+}
+
+.img3{
+
+height: 500px;
+width: 300px;
+
+}
+
+.img4{
+
+height: 100px;
+width: 200px;
+
+}
+
+.img5{
+
+height: 100px;
+width: 100px;
+}
+
+.img6{
+
+height: 200px;
+width: 200px;
+}
+
+.img7{
+
+height: 200px;
+width: 200px;
+}
+
+
 .titulo{
     font-size: 50px;
     color: rgb(0, 0, 0); 
@@ -42,9 +82,6 @@ width: 1300px;
 }
 
 
-
-
-}
 
 .alimenticio{
 
