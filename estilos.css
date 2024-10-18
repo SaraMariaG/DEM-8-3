@@ -74,11 +74,11 @@ width: 200px;
 }
 .imagent{
 
-    height: 183px;
-    width: 325px;
-    background-repeat: no-repeat;
-    background-image: url("circuito.jpg");
-    float: left;
+        height: 183px;
+        width: 325px;
+        background-repeat: no-repeat;
+        background-image: url("circuito.jpg");
+        float: left;
 }
 
 
@@ -130,9 +130,64 @@ float: left;
 
 .logopro{
 
-    height: 90px;
-width: 100px;
+    height: 183px;
+    width: 325px;
 }
 
+
+.imgT{
+
+    height:50px;
+    width: 50px;
+    background-image: url("tratosx3.png")
+}
+
+.ImgO{
+
+    height: 50px;
+    width: 50px;
+    background-image: url("oir.png")
+
+}
+.ImgP{
+
+height: 50px;
+width: 50px;
+background-image: url("opinion.jpg");
+
+}
+
+.ImgV{
+
+height: 50px;
+width: 50px;
+background-image: url("Violencia.png";
+
+}
+
+.ImgI{
+
+    height: 50px;
+width: 50px;
+background-image: url("Identidad.jpg");
+
+
+}
+
+
+.ImgE{
+
+
+height: 50px;
+width: 50px;
+background-image: url("estereotipos.png");0
+}
+}
+
+}
+
+
+
+}
 
 
