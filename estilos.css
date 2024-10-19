@@ -130,8 +130,8 @@ float: left;
 
 .logopro{
 
-    height: 183px;
-    width: 325px;
+    height: 200px;
+    width: 100px;
 }
 
 
@@ -182,10 +182,23 @@ height: 50px;
 width: 50px;
 background-image: url("estereotipos.png");0
 }
-}
+
+
+.MapaCo{
+
+    height: 700px;
+    width: 1300px;
+
 
 }
 
+.cont{
+
+    height: 5px;
+    width:50px;
+
+
+}
 
 
 }
